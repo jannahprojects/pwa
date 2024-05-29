@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Panemu</title>
+	<atom:link href="https://jannahprojects.github.io/pwa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jannahprojects.github.io/pwa</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 May 2024 13:21:30 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Periferal Komputer</title>
+		<link>https://jannahprojects.github.io/pwa/periferal-komputer/</link>
+					<comments>https://jannahprojects.github.io/pwa/periferal-komputer/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 13:21:30 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://jannahprojects.github.io/pwa/?p=2428</guid>
+
+					<description><![CDATA[ABSTRAKPeriferal komputer merupakan komponen tambahan yang berfungsi untuk memperluas kemampuan dan fungsi dari sistem komputer pusat. Artikel ini bertujuan untuk memberikan tinjauan umum mengenai jenis-jenis periferal komputer, fungsi-fungsi utama, serta perkembangan terkini dalam teknologi periferal. Secara khusus, dibahas periferal input seperti keyboard dan mouse, periferal output seperti monitor dan printer, serta periferal input/output seperti hard [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>ABSTRAK<br>Periferal komputer merupakan komponen tambahan yang berfungsi untuk memperluas kemampuan dan fungsi dari sistem komputer pusat. Artikel ini bertujuan untuk memberikan tinjauan umum mengenai jenis-jenis periferal komputer, fungsi-fungsi utama, serta perkembangan terkini dalam teknologi periferal. Secara khusus, dibahas periferal input seperti keyboard dan mouse, periferal output seperti monitor dan printer, serta periferal input/output seperti hard disk eksternal dan flash drive. Selain itu, artikel ini juga mengeksplorasi bagaimana inovasi dalam teknologi nirkabel dan konektivitas USB telah mempermudah penggunaan dan integrasi periferal ke dalam sistem komputer. Terakhir, dibahas pula tantangan yang dihadapi dalam desain periferal, termasuk ergonomi, kompatibilitas, dan keamanan. Artikel ini bermanfaat bagi siapa saja yang ingin memahami lebih dalam tentang periferal komputer dan tren terkini yang membentuk masa depan interaksi manusia dengan teknologi komputasi.</p>
+
+
+
+<p>Keywords: Prosesor, Perbedaan RAM dan Hardisk, Perbedaan Hardisk dan SSD, Spesikasi Lenovo Thinkpad, Apache MySQL dan PHP</p>
+
+
+
+<p>Prosesor</p>
+
+
+
+<pre class="wp-block-code"><code>Prosesor, yang juga dikenal sebagai CPU (Central Processing Unit), adalah otak dari komputer atau perangkat elektronik lainnya. Ia bertanggung jawab untuk menjalankan instruksi program dengan melakukan operasi dasar seperti aritmatika, logika, pengendalian, dan input/output (I/O). Prosesor menerima input data, memproses informasi tersebut sesuai dengan instruksi yang diberikan, dan kemudian menghasilkan output. Kecepatan dan efisiensi prosesor dalam menjalankan instruksi sangat mempengaruhi kinerja keseluruhan dari sebuah sistem komputer. Prosesor terdiri dari beberapa komponen penting, termasuk unit aritmatika dan logika (ALU), register, dan unit kontrol, yang semuanya bekerja bersama untuk menjalankan operasi komputasi.</code></pre>
+
+
+
+<p>Perbedaan RAM dan Hardisk</p>
+
+
+
+<pre class="wp-block-code"><code>RAM adalah jenis penyimpanan volatile, yang berarti data di dalamnya akan hilang ketika daya listrik diputus atau komputer dimatikan.</code></pre>
+
+
+
+<p>Hard Disk adalah jenis penyimpanan non-volatile, dimana data tetap tersimpan meskipun komputer dimatikan.</p>
+
+
+
+<p>Kecepatan Akses:<br>RAM memiliki kecepatan akses yang sangat cepat dibandingkan dengan Hard Disk. Ini memungkinkan komputer untuk mengakses data dan menjalankan program dengan lebih cepat.<br>Hard Disk memiliki kecepatan akses yang lebih lambat dibandingkan dengan RAM, menjadikannya kurang ideal untuk penyimpanan data yang memerlukan akses cepat.</p>
+
+
+
+<p>Kapasitas:<br>RAM biasanya memiliki kapasitas yang lebih kecil dibandingkan dengan Hard Disk. RAM di komputer modern umumnya berkisar antara 4 GB hingga 64 GB.<br>Hard Disk dapat menyimpan jumlah data yang jauh lebih besar, seringkali mulai dari beberapa ratus gigabyte hingga beberapa terabyte.</p>
+
+
+
+<p>Penggunaan:<br>RAM digunakan oleh sistem untuk menyimpan data sementara yang diperlukan oleh prosesor untuk menjalankan program dan operasi. Semakin banyak RAM yang tersedia, semakin banyak program yang dapat dijalankan secara bersamaan tanpa memperlambat sistem.<br>Hard Disk digunakan untuk penyimpanan data jangka panjang, seperti sistem operasi, aplikasi, dan file pengguna.</p>
+
+
+
+<p>Fisik:<br>RAM merupakan chip memori yang terpasang di motherboard.<br>Hard Disk merupakan perangkat penyimpanan dengan disk magnetis di dalamnya yang berputar untuk membaca dan menulis data.</p>
+
+
+
+<p>Kedua komponen ini saling melengkapi dalam sistem komputer: RAM menyediakan akses cepat ke data yang dibutuhkan prosesor secara langsung, sementara Hard Disk menyediakan kapasitas penyimpanan yang besar untuk data dan aplikasi jangka panjang.</p>
+
+
+
+<p>Perbedaan antara Hardisk dan SSD</p>
+
+
+
+<p>Hard Disk Drive (HDD) dan Solid State Drive (SSD) adalah dua jenis perangkat penyimpanan yang digunakan dalam komputer, namun mereka memiliki perbedaan signifikan dalam cara kerja, kecepatan, ketahanan, dan beberapa aspek lain:</p>
+
+
+
+<p>Cara Kerja:<br>HDD menggunakan piringan magnetis yang berputar untuk membaca dan menulis data. Kepala baca/tulis bergerak di atas piringan untuk mengakses data.<br>SSD tidak memiliki bagian bergerak. Ia menggunakan chip memori flash untuk menyimpan data, yang memungkinkan akses data yang lebih cepat dan lebih andal.</p>
+
+
+
+<p>Kecepatan:<br>SSD jauh lebih cepat dalam hal waktu baca/tulis dibandingkan dengan HDD. Ini berarti waktu boot sistem, waktu pemuatan aplikasi, dan transfer data secara umum lebih cepat pada SSD.<br>HDD lebih lambat karena harus menunggu piringan berputar ke posisi yang benar dan kepala baca/tulis untuk mengakses data.</p>
+
+
+
+<p>Ketahanan:<br>SSD lebih tahan terhadap guncangan dan getaran karena tidak memiliki bagian bergerak. Ini membuat SSD lebih ideal untuk laptop dan perangkat mobile.<br>HDD lebih rentan terhadap kerusakan fisik dari guncangan dan getaran karena komponen mekanis di dalamnya.</p>
+
+
+
+<p>Kapasitas:<br>HDD cenderung menawarkan kapasitas penyimpanan yang lebih besar dengan harga yang lebih murah per gigabyte. Ini menjadikannya pilihan yang ekonomis untuk penyimpanan data dalam jumlah besar.<br>SSD biasanya lebih mahal per gigabyte dan memiliki kapasitas maksimal yang lebih rendah dibandingkan dengan HDD, meskipun gap ini terus mengecil seiring waktu.</p>
+
+
+
+<p>Pada dasarnya, SSD menawarkan kinerja, kecepatan, dan ketahanan yang lebih baik, sementara HDD masih relevan untuk penyimpanan data dalam skala besar dengan biaya yang lebih rendah. Keduanya memiliki tempatnya masing-masing dalam ekosistem komputasi tergantung pada kebutuhan dan anggaran pengguna.</p>
+
+
+
+<p>Spesifikasi Lenovo Thinkpad</p>
+
+
+
+<p>Lenovo ThinkPad Helix (2nd Gen) merupakan ultrabook yang dapat dilepas dari dock keyboardnya dan memiliki desain serta dimensi yang membuatnya mudah dibawa. Berikut ini adalah spesifikasi utama dari Lenovo ThinkPad Helix (2nd Gen):</p>
+
+
+
+<p>Prosesor: Dilengkapi dengan Intel Core M 5Y71 yang memiliki kecepatan dasar 1.2 GHz dan dapat meningkat hingga 2.9 GHz dengan Turbo Boost, dual-core, serta memiliki cache 4 MB.</p>
+
+
+
+<p>Memori: RAM sebesar 8 GB tipe LPDDR3 SDRAM yang sudah tertanam (soldered) dan tidak dapat di-upgrade.</p>
+
+
+
+<p>Penyimpanan: SSD 128 GB sebagai media penyimpanan utama.</p>
+
+
+
+<p>Layar: 11.6 inci dengan resolusi Full HD (1920 x 1080), teknologi IPS, dan mendukung multi-touch hingga 10 titik sentuhan. Layarnya juga dilengkapi dengan Gorilla Glass dan memiliki kecerahan 370 cd/m².</p>
+
+
+
+<p>Grafis: Menggunakan Intel HD Graphics 5300.<br>Konektivitas: Bluetooth 4.0 dan Wi-Fi 802.11a/b/g/n/ac. Untuk koneksi fisik, tersedia port USB 3.0, Micro-HDMI, dan jack combo headphone/microphone, serta port tambahan di dock keyboard seperti USB 3.0 dan Mini DisplayPort.</p>
+
+
+
+<p>Baterai: Menggunakan teknologi Lithium Ion dengan dua sel baterai.<br>Sistem Operasi: Windows 10 Home.<br>Berat: Berat keseluruhan unit adalah 822 g dan dock keyboardnya seberat 900 g.</p>
+
+
+
+<p>Perangkat ini dirancang untuk fleksibilitas dan portabilitas, mendukung penggunaan sebagai tablet maupun laptop dengan keyboard dock. Desainnya yang ramping dan ringan menjadikannya pilihan yang baik untuk pekerjaan mobile. Untuk performa, prosesor Intel Core M-5Y71 menyediakan keseimbangan antara konsumsi daya dan kecepatan, cocok untuk tugas-tugas sehari-hari dan multitasking dasar.</p>
+
+
+
+<p>Apache, MySQL, dan PHP</p>
+
+
+
+<p>Apache adalah server web open-source dan lintas platform yang populer, dikembangkan dan dipelihara oleh Apache Software Foundation. Apache berfungsi untuk mengirimkan konten web melalui internet kepada pengguna. Server ini dapat menjalankan berbagai website dengan efisien, mendukung HTTP/HTTPS, dan memiliki fitur seperti modul yang dapat disesuaikan untuk memperluas fungsionalitasnya. Apache adalah server web yang paling banyak digunakan di internet sejak peluncurannya pada tahun 1995, dan banyak digunakan bersama dengan MySQL dan PHP dalam pengembangan web untuk membentuk stack LAMP (Linux, Apache, MySQL, PHP) yang populer.</p>
+
+
+
+<p>MySQL adalah sistem manajemen basis data relasional (RDBMS) open-source yang menggunakan Structured Query Language (SQL). Ini adalah salah satu sistem basis data yang paling populer dan banyak digunakan di dunia, terutama untuk aplikasi web. MySQL digunakan untuk menyimpan dan mengelola data dalam struktur tabel, yang memungkinkan penggunaan efisien data melalui query SQL untuk pencarian, penyisipan, pembaruan, dan penghapusan data.</p>
+
+
+
+<p>PHP adalah bahasa skrip server-side yang dirancang untuk pengembangan web tetapi juga digunakan sebagai bahasa pemrograman umum. PHP digunakan untuk membuat konten web dinamis, memungkinkan interaksi antara halaman web dan pengguna, serta antara halaman web dan server/database. PHP dapat dengan mudah diintegrasikan dengan MySQL untuk menyimpan dan mengelola data, membuatnya menjadi pilihan populer untuk pengembangan aplikasi web dinamis.</p>
+
+
+
+<p>Kombinasi Apache, MySQL, dan PHP merupakan dasar dari banyak aplikasi web karena mereka bersama-sama menyediakan semua yang diperlukan untuk mengembangkan dan menjalankan situs web dinamis.</p>
+
+
+
+<pre class="wp-block-code"><code>            KESIMPULAN</code></pre>
+
+
+
+<p>Teks tersebut memberikan gambaran menyeluruh tentang komponen-komponen kunci dalam sistem komputer dan pengembangan web.</p>
+
+
+
+<p>Pertama, prosesor (CPU) dijelaskan sebagai komponen penting yang berfungsi sebagai otak dari komputer, bertanggung jawab atas pelaksanaan instruksi program melalui operasi aritmatika, logika, pengendalian, dan input/output. Kecepatan dan efisiensi CPU menentukan kinerja sistem.</p>
+
+
+
+<p>Kedua, dibahas perbedaan antara RAM dan Hard Disk, menekankan pada sifat volatile RAM yang mempengaruhi kecepatan akses dan kapasitasnya yang lebih kecil dibandingkan dengan Hard Disk yang menyediakan penyimpanan jangka panjang.</p>
+
+
+
+<p>Ketiga, perbedaan antara HDD dan SSD diberikan, menggarisbawahi keunggulan SSD dalam kecepatan, ketahanan, dan efisiensi, meskipun HDD masih menawarkan nilai ekonomis untuk penyimpanan data skala besar.</p>
+
+
+
+<p>Keempat, spesifikasi dari Lenovo ThinkPad Helix (2nd Gen) disajikan, menunjukkan desain dan fitur-fitur yang mendukung portabilitas dan fleksibilitas sebagai laptop atau tablet, dengan fokus pada kinerja yang seimbang untuk kegiatan sehari-hari dan multitasking.</p>
+
+
+
+<p>Terakhir, dijelaskan pentingnya kombinasi Apache, MySQL, dan PHP dalam pengembangan web, menyajikan Apache sebagai server web yang efisien, MySQL sebagai sistem basis data relasional yang andal, dan PHP sebagai bahasa skrip server-side untuk membuat konten web dinamis. Kombinasi ini, yang membentuk stack LAMP, adalah dasar bagi banyak aplikasi web, menyediakan semua yang diperlukan untuk mengembangkan dan menjalankan situs web dinamis.</p>
+
+
+
+<p>Kesimpulannya, teks tersebut memberikan pemahaman yang mendalam tentang dasar-dasar hardware komputer, perbedaan dan penggunaan komponen penyimpanan utama, serta peran teknologi dan bahasa pemrograman dalam pengembangan web.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jannahprojects.github.io/pwa/periferal-komputer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Transformasi Digital: Progressive Web App</title>
+		<link>https://jannahprojects.github.io/pwa/transformasi-digital-progressive-web-app/</link>
+					<comments>https://jannahprojects.github.io/pwa/transformasi-digital-progressive-web-app/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 13:19:56 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://jannahprojects.github.io/pwa/?p=2425</guid>
+
+					<description><![CDATA[Mengenal Progressive Web App (PWA)Dalam era digital yang terus berkembang, aplikasi web dan mobile berperan penting dalam kehidupan sehari-hari. Salah satu inovasi terkini yang menggabungkan keunggulan keduanya adalah Progressive Web App atau PWA. Apa itu PWA, dan mengapa penting bagi perkembangan teknologi web? Mari kita jelajahi lebih dalam. Apa Itu PWA?Progressive Web App (PWA) adalah [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Mengenal Progressive Web App (PWA)<br>Dalam era digital yang terus berkembang, aplikasi web dan mobile berperan penting dalam kehidupan sehari-hari. Salah satu inovasi terkini yang menggabungkan keunggulan keduanya adalah Progressive Web App atau PWA. Apa itu PWA, dan mengapa penting bagi perkembangan teknologi web? Mari kita jelajahi lebih dalam.</p>
+
+
+
+<p>Apa Itu PWA?<br>Progressive Web App (PWA) adalah aplikasi web yang menggunakan teknologi web modern untuk memberikan pengalaman yang setara dengan aplikasi mobile asli (native app). PWA dirancang agar dapat berjalan di berbagai perangkat dengan lancar, memanfaatkan fitur-fitur canggih dari browser web, dan memberikan pengalaman pengguna yang interaktif dan responsif.</p>
+
+
+
+<p>Keunggulan PWA<br>Instalasi Mudah<br>PWA tidak memerlukan proses instalasi yang rumit seperti aplikasi mobile pada umumnya. Pengguna cukup membuka website PWA, dan mereka akan ditawarkan opsi untuk menambahkan aplikasi ke layar utama perangkat mereka. Proses ini cepat dan sederhana.</p>
+
+
+
+<p>Akses Offline<br>Salah satu fitur unggulan PWA adalah kemampuannya untuk bekerja secara offline atau dalam kondisi jaringan yang tidak stabil. Hal ini dimungkinkan berkat penggunaan service workers yang menyimpan cache dari konten aplikasi.</p>
+
+
+
+<p>Responsif dan Adaptif<br>PWA dirancang agar responsif, artinya tampilannya akan menyesuaikan dengan berbagai ukuran layar, baik itu di desktop, tablet, maupun smartphone. Selain itu, PWA juga adaptif terhadap berbagai kondisi jaringan.</p>
+
+
+
+<p>Keamanan Tinggi<br>PWA diharuskan untuk menggunakan HTTPS, yang memastikan bahwa data antara pengguna dan server terlindungi dengan baik dari serangan man-in-the-middle.</p>
+
+
+
+<p>Pengalaman Pengguna yang Lebih Baik<br>Dengan PWA, pengguna dapat merasakan pengalaman yang mirip dengan aplikasi native, termasuk notifikasi push, kecepatan akses, dan interaktivitas yang tinggi. Hal ini meningkatkan engagement pengguna secara signifikan.</p>
+
+
+
+<p>Contoh Implementasi PWA<br>Beberapa perusahaan besar telah mengadopsi PWA untuk meningkatkan pengalaman pengguna mereka, seperti:</p>
+
+
+
+<p>Twitter dengan Twitter Lite<br>Pinterest dengan Pinterest PWA<br>Forbes dengan Forbes PWA<br>Bagaimana Cara Membuat PWA?<br>Membangun PWA melibatkan beberapa langkah penting:</p>
+
+
+
+<p>Membuat Aplikasi Web yang Responsif<br>Pastikan aplikasi web Anda dapat berfungsi dengan baik di berbagai perangkat dan ukuran layar.<br>Menggunakan Service Workers<br>Implementasikan service workers untuk menangani cache dan permintaan jaringan, memungkinkan aplikasi berfungsi offline.<br>Menyediakan Web App Manifest<br>Buat file manifest JSON yang mendefinisikan bagaimana aplikasi Anda akan muncul kepada pengguna dan bagaimana aplikasi tersebut dapat diinstal.<br>Mengamankan dengan HTTPS<br>Pastikan situs web Anda menggunakan protokol HTTPS untuk keamanan data.<br>Kesimpulan<br>PWA merupakan terobosan yang menawarkan berbagai keuntungan bagi pengguna dan pengembang. Dengan kemampuan untuk diakses secara offline, instalasi yang mudah, dan pengalaman pengguna yang superior, PWA menjadi pilihan ideal bagi banyak perusahaan untuk mengembangkan aplikasi web yang efisien dan efektif. Mengadopsi PWA bisa menjadi langkah strategis dalam menghadapi era digital yang semakin dinamis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jannahprojects.github.io/pwa/transformasi-digital-progressive-web-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Halo dunia!</title>
+		<link>https://jannahprojects.github.io/pwa/halo-dunia/</link>
+					<comments>https://jannahprojects.github.io/pwa/halo-dunia/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 12:00:18 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://jannahprojects.github.io/pwa/?p=1</guid>
+
+					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
+										<content:encoded><![CDATA[
+<p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jannahprojects.github.io/pwa/halo-dunia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
